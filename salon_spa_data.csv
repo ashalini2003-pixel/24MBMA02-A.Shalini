@@ -1,0 +1,51 @@
+Customer ID,Customer Name,Gender,Salon ID,Salon Name,Booking ID,Service Name,Category,Booking Date,Service Date,Duration (min),Amount Spent,Status,Staff Name,Rating
+1,Priya Sharma,Female,S001,Glamour Salon,B1001,Haircut,Hair,2025-09-01,2025-09-02,45,800,Completed,Anil,4.5
+2,Rahul Verma,Male,S002,Luxe Spa,B1002,Massage,Spa,2025-09-03,2025-09-04,60,1500,Completed,Sunita,4.8
+3,Sneha Reddy,Female,S001,Glamour Salon,B1003,Manicure,Nail Care,2025-09-04,2025-09-05,30,500,Completed,Priya,4.7
+4,Karan Singh,Male,S003,Beauty Bliss,B1004,Facial,Skin Care,2025-09-05,2025-09-06,50,1200,Completed,Rahul,4.6
+5,Ananya Gupta,Female,S002,Luxe Spa,B1005,Pedicure,Nail Care,2025-09-06,2025-09-07,40,600,Completed,Neha,4.9
+6,Aditya Joshi,Male,S001,Glamour Salon,B1006,Hair Coloring,Hair,2025-09-07,2025-09-08,90,2000,Completed,Anil,4.4
+7,Priyanka Yadav,Female,S003,Beauty Bliss,B1007,Body Wrap,Spa,2025-09-08,2025-09-09,70,1800,Completed,Sunita,4.8
+8,Vivek Kumar,Male,S002,Luxe Spa,B1008,Massage,Spa,2025-09-09,2025-09-10,60,1500,Completed,Priya,4.7
+9,Riya Sinha,Female,S001,Glamour Salon,B1009,Haircut,Hair,2025-09-10,2025-09-11,45,800,Completed,Rahul,4.6
+10,Aman Verma,Male,S003,Beauty Bliss,B1010,Facial,Skin Care,2025-09-11,2025-09-12,50,1200,Completed,Neha,4.9
+11,Pooja Mehra,Female,S001,Glamour Salon,B1011,Manicure,Nail Care,2025-09-12,2025-09-13,30,500,Completed,Anil,4.7
+12,Sandeep Choudhary,Male,S002,Luxe Spa,B1012,Pedicure,Nail Care,2025-09-13,2025-09-14,40,600,Completed,Sunita,4.8
+13,Meera Joshi,Female,S003,Beauty Bliss,B1013,Body Wrap,Spa,2025-09-14,2025-09-15,70,1800,Completed,Priya,4.6
+14,Rohit Malhotra,Male,S001,Glamour Salon,B1014,Hair Coloring,Hair,2025-09-15,2025-09-16,90,2000,Completed,Rahul,4.5
+15,Anjali Kumar,Female,S002,Luxe Spa,B1015,Massage,Spa,2025-09-16,2025-09-17,60,1500,Completed,Neha,4.9
+16,Nikhil Sharma,Male,S003,Beauty Bliss,B1016,Facial,Skin Care,2025-09-17,2025-09-18,50,1200,Completed,Anil,4.7
+17,Sanya Patel,Female,S001,Glamour Salon,B1017,Manicure,Nail Care,2025-09-18,2025-09-19,30,500,Completed,Sunita,4.8
+18,Kunal Gupta,Male,S002,Luxe Spa,B1018,Pedicure,Nail Care,2025-09-19,2025-09-20,40,600,Completed,Priya,4.7
+19,Divya Singh,Female,S003,Beauty Bliss,B1019,Body Wrap,Spa,2025-09-20,2025-09-21,70,1800,Completed,Rahul,4.6
+20,Mohit Reddy,Male,S001,Glamour Salon,B1020,Haircut,Hair,2025-09-21,2025-09-22,45,800,Completed,Neha,4.8
+21,Alka Yadav,Female,S002,Luxe Spa,B1021,Massage,Spa,2025-09-22,2025-09-23,60,1500,Completed,Anil,4.7
+22,Rajesh Mehta,Male,S003,Beauty Bliss,B1022,Facial,Skin Care,2025-09-23,2025-09-24,50,1200,Completed,Sunita,4.9
+23,Priti Sinha,Female,S001,Glamour Salon,B1023,Hair Coloring,Hair,2025-09-24,2025-09-25,90,2000,Completed,Priya,4.6
+24,Abhishek Joshi,Male,S002,Luxe Spa,B1024,Pedicure,Nail Care,2025-09-25,2025-09-26,40,600,Completed,Rahul,4.8
+25,Nisha Sharma,Female,S003,Beauty Bliss,B1025,Body Wrap,Spa,2025-09-26,2025-09-27,70,1800,Completed,Neha,4.7
+26,Tarun Verma,Male,S001,Glamour Salon,B1026,Manicure,Nail Care,2025-09-27,2025-09-28,30,500,Completed,Anil,4.8
+27,Sheetal Patel,Female,S002,Luxe Spa,B1027,Massage,Spa,2025-09-28,2025-09-29,60,1500,Completed,Sunita,4.9
+28,Kiran Mehra,Female,S003,Beauty Bliss,B1028,Facial,Skin Care,2025-09-29,2025-09-30,50,1200,Completed,Priya,4.7
+29,Vikram Kumar,Male,S001,Glamour Salon,B1029,Haircut,Hair,2025-09-30,2025-10-01,45,800,Completed,Rahul,4.6
+30,Ruchika Yadav,Female,S002,Luxe Spa,B1030,Pedicure,Nail Care,2025-10-01,2025-10-02,40,600,Completed,Neha,4.9
+31,Sameer Choudhary,Male,S003,Beauty Bliss,B1031,Body Wrap,Spa,2025-10-02,2025-10-03,70,1800,Completed,Anil,4.7
+32,Anjali Sinha,Female,S001,Glamour Salon,B1032,Hair Coloring,Hair,2025-10-03,2025-10-04,90,2000,Completed,Sunita,4.8
+33,Harsh Malhotra,Male,S002,Luxe Spa,B1033,Massage,Spa,2025-10-04,2025-10-05,60,1500,Completed,Priya,4.7
+34,Meena Gupta,Female,S003,Beauty Bliss,B1034,Facial,Skin Care,2025-10-05,2025-10-06,50,1200,Completed,Rahul,4.9
+35,Rajiv Verma,Male,S001,Glamour Salon,B1035,Manicure,Nail Care,2025-10-06,2025-10-07,30,500,Completed,Neha,4.8
+36,Priya Mehra,Female,S002,Luxe Spa,B1036,Pedicure,Nail Care,2025-10-07,2025-10-08,40,600,Completed,Anil,4.7
+37,Vikas Sharma,Male,S003,Beauty Bliss,B1037,Body Wrap,Spa,2025-10-08,2025-10-09,70,1800,Completed,Sunita,4.8
+38,Ananya Joshi,Female,S001,Glamour Salon,B1038,Haircut,Hair,2025-10-09,2025-10-10,45,800,Completed,Priya,4.9
+39,Rohan Kumar,Male,S002,Luxe Spa,B1039,Massage,Spa,2025-10-10,2025-10-11,60,1500,Completed,Rahul,4.7
+40,Swati Singh,Female,S003,Beauty Bliss,B1040,Facial,Skin Care,2025-10-11,2025-10-12,50,1200,Completed,Neha,4.8
+41,Akash Yadav,Male,S001,Glamour Salon,B1041,Hair Coloring,Hair,2025-10-12,2025-10-13,90,2000,Completed,Anil,4.9
+42,Priyanka Mehra,Female,S002,Luxe Spa,B1042,Pedicure,Nail Care,2025-10-13,2025-10-14,40,600,Completed,Sunita,4.7
+43,Aman Patel,Male,S003,Beauty Bliss,B1043,Body Wrap,Spa,2025-10-14,2025-10-15,70,1800,Completed,Priya,4.8
+44,Neha Gupta,Female,S001,Glamour Salon,B1044,Manicure,Nail Care,2025-10-15,2025-10-16,30,500,Completed,Rahul,4.9
+45,Tarun Verma,Male,S002,Luxe Spa,B1045,Massage,Spa,2025-10-16,2025-10-17,60,1500,Completed,Neha,4.7
+46,Sanya Sharma,Female,S003,Beauty Bliss,B1046,Facial,Skin Care,2025-10-17,2025-10-18,50,1200,Completed,Anil,4.8
+47,Rohit Joshi,Male,S001,Glamour Salon,B1047,Haircut,Hair,2025-10-18,2025-10-19,45,800,Completed,Sunita,4.6
+48,Pooja Yadav,Female,S002,Luxe Spa,B1048,Pedicure,Nail Care,2025-10-19,2025-10-20,40,600,Completed,Priya,4.7
+49,Aditya Mehta,Male,S003,Beauty Bliss,B1049,Body Wrap,Spa,2025-10-20,2025-10-21,70,1800,Completed,Rahul,4.9
+50,Sneha Verma,Female,S001,Glamour Salon,B1050,Hair Coloring,Hair,2025-10-21,2025-10-22,90,2000,Completed,Neha,4.8
